@@ -10,15 +10,15 @@ export const neighborhoods =  [
       {
         "h": "What local context matters in Historic Uptown?",
         "ps": [
-          "The city's <a href=\"https://www.centervilleohio.gov/260/Historic-Uptown\" target=\"_blank\" rel=\"noopener noreferrer\">Historic Uptown page</a> says the village grew around the Four Corners at Main and Franklin streets, and that Centerville passed an ordinance in 1972 creating the Architectural Preservation District. Today it holds shops, restaurants, offices and homes.",
-          "The <a href=\"https://www.centervilleohio.gov/221/Uptown-Centerville\" target=\"_blank\" rel=\"noopener noreferrer\">Uptown Centerville page</a> describes the area as running along Main Street from Alex Bell Road to south of Franklin Street. That history does not tell us the age or material of any private drain line, so confirm access and inspect the actual pipe."
+          "The city's Historic Uptown page says the village grew around the Four Corners at Main and Franklin streets, and that Centerville passed an ordinance in 1972 creating the Architectural Preservation District. Today it holds shops, restaurants, offices and homes.",
+          "The Uptown Centerville page describes the area as running along Main Street from Alex Bell Road to south of Franklin Street. That history does not tell us the age or material of any private drain line, so confirm access and inspect the actual pipe."
         ]
       },
       {
         "h": "What drain services do homeowners in Historic Uptown ask about?",
         "ps": [
           "Start with the symptom. Water that drains slowly again and again points to <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a>, while scale or crust inside a line is covered under <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a>.",
-          "Once a line is clear, <a href=\"/services/preventative-maintenance/\">preventative hydro jetting</a> covers keeping it that way, and <a href=\"/guides/hydro-jetting-vs-snaking/\">hydro jetting vs snaking</a> compares the two methods if you are deciding. Back on the <a href=\"/\">Centerville hydro jetting page</a>, every service for Centerville is listed. The <a href=\"/neighborhood/yankee-trace/\">Yankee Trace</a> page covers another part of Centerville."
+          "Once a line is clear, <a href=\"/services/preventative-maintenance/\">preventative hydro jetting</a> covers keeping it that way, and <a href=\"/guides/hydro-jetting-vs-snaking/\">hydro jetting vs snaking</a> compares the two methods if you are deciding. Back on the <a href=\"/\">Centerville hydro jetting page</a>, every service for Centerville is listed. The Yankee Trace page covers another part of Centerville."
         ]
       },
       {
@@ -59,15 +59,15 @@ export const neighborhoods =  [
       {
         "h": "What local context matters in Yankee Trace?",
         "ps": [
-          "The <a href=\"https://myyankeetrace.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Yankee Trace Community Association site</a> describes a master planned community around the Golf Course at Yankee Trace, planned to grow to over 800 homes of various designs. It lists amenities such as pools, courts and trails.",
+          "The Yankee Trace Community Association site describes a master planned community around the Golf Course at Yankee Trace, planned to grow to over 800 homes of various designs. It lists amenities such as pools, courts and trails.",
           "A planned community can have homes of different ages and designs, so one block's pipes are not a guide to another's. Confirm access and inspect the actual line."
         ]
       },
       {
         "h": "How do the services fit homes in Yankee Trace?",
         "ps": [
-          "Each service page answers one question. <a href=\"/services/severe-grease-and-sludge/\">Grease and sludge</a> is for kitchen lines that back up, <a href=\"/services/tree-root-intrusions/\">tree roots</a> is for lines where roots may have gotten in, and <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a> is for deposits that narrow a pipe over time.",
-          "If none of those sounds like your drain, <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a> is the broader page, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> explains what the work involves before you ask anyone to do it. The <a href=\"/neighborhood/fox-ridge/\">Fox Ridge</a> page covers another part of Centerville."
+          "Each service page answers one question. Grease and sludge is for kitchen lines that back up, tree roots is for lines where roots may have gotten in, and mineral buildup is for deposits that narrow a pipe over time.",
+          "If none of those sounds like your drain, recurring clogs and slow drains is the broader page, and how hydro jetting works explains what the work involves before you ask anyone to do it. The Fox Ridge page covers another part of Centerville."
         ]
       },
       {
@@ -108,15 +108,15 @@ export const neighborhoods =  [
       {
         "h": "What local context matters in Fox Ridge?",
         "ps": [
-          "A <a href=\"https://www.coldwellbankerhomes.com/oh/centerville/1003-foxshire-pl/pid_71874286/\" target=\"_blank\" rel=\"noopener noreferrer\">public listing for a home on Foxshire Place</a> gives Fox Ridge as the subdivision, McEwen as the cross street and a 1985 build year. Listings for nearby Foxknoll Drive homes show 1983 and 1984 build years. These are listing records, not an official register.",
+          "A public listing for a home on Foxshire Place gives Fox Ridge as the subdivision, McEwen as the cross street and a 1985 build year. Listings for nearby Foxknoll Drive homes show 1983 and 1984 build years. These are listing records, not an official register.",
           "A listing build year does not identify the pipe material or its condition. Confirm access and inspect the actual line."
         ]
       },
       {
         "h": "Which hydro jetting pages are worth reading before a request in Fox Ridge?",
         "ps": [
-          "Read <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> first if the method is new to you. Then pick the page that matches what the drain is doing: <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs</a>, <a href=\"/services/severe-grease-and-sludge/\">grease and sludge</a> or <a href=\"/services/tree-root-intrusions/\">tree roots</a>.",
-          "<a href=\"/services/preventative-maintenance/\">Preventative hydro jetting</a> is the page for a line that is working now and that you want to keep clear. The <a href=\"/\">Centerville hydro jetting page</a> lists the rest for Centerville. The <a href=\"/neighborhood/cornerstone/\">Cornerstone</a> page covers another part of Centerville."
+          "Read how hydro jetting works first if the method is new to you. Then pick the page that matches what the drain is doing: recurring clogs, grease and sludge or tree roots.",
+          "Preventative hydro jetting is the page for a line that is working now and that you want to keep clear. The Centerville hydro jetting page lists the rest for Centerville. The Cornerstone page covers another part of Centerville."
         ]
       },
       {
@@ -157,15 +157,15 @@ export const neighborhoods =  [
       {
         "h": "What local context matters in Cornerstone?",
         "ps": [
-          "The city's <a href=\"https://www.centervilleohio.gov/204/Cornerstone\" target=\"_blank\" rel=\"noopener noreferrer\">Cornerstone page</a> calls it a retail and housing development at Wilmington Pike and Feedwire Road and mentions 240 units in Cornerstone Apartments and 100 apartments for residents 55 and older at Dogwood Commons.",
+          "The city's Cornerstone page calls it a retail and housing development at Wilmington Pike and Feedwire Road and mentions 240 units in Cornerstone Apartments and 100 apartments for residents 55 and older at Dogwood Commons.",
           "In an apartment building the drain lines may be managed by the property owner, so say who maintains the line before asking for service. Confirm access and inspect the actual pipe."
         ]
       },
       {
         "h": "What kind of drain problem are you seeing in Cornerstone?",
         "ps": [
-          "A blockage that keeps coming back usually raises two questions, whether roots are involved and whether grease is building up. <a href=\"/services/tree-root-intrusions/\">Hydro jetting for tree roots</a> takes the first, and <a href=\"/services/severe-grease-and-sludge/\">hydro jetting for grease and sludge</a> takes the second.",
-          "<a href=\"/services/mineral-and-scale-deposits/\">Mineral buildup</a> covers scale inside older lines, and <a href=\"/guides/hydro-jetting-vs-snaking/\">hydro jetting vs snaking</a> helps you compare the methods. The <a href=\"/\">Centerville hydro jetting page</a> gives the full picture for Centerville. The <a href=\"/neighborhood/historic-uptown/\">Historic Uptown</a> page covers another part of Centerville."
+          "A blockage that keeps coming back usually raises two questions, whether roots are involved and whether grease is building up. Hydro jetting for tree roots takes the first, and hydro jetting for grease and sludge takes the second.",
+          "Mineral buildup covers scale inside older lines, and hydro jetting vs snaking helps you compare the methods. The Centerville hydro jetting page gives the full picture for Centerville. The Historic Uptown page covers another part of Centerville."
         ]
       },
       {
